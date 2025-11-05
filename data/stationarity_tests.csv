@@ -1,0 +1,6 @@
+Marché,ADF_stat,ADF_pval,ADF_conclusion,KPSS_stat,KPSS_pval,KPSS_conclusion,Conclusion
+DAX (Allemagne),-1.4067953181262063,0.5790140566127576,Non-stationnaire,3.2664884202385815,0.01,Non-stationnaire,✗ Non-stationnaire
+Nikkei (Japon),-3.8899235128863032,0.0021102687970520153,Stationnaire,0.29969966183940405,0.1,Stationnaire,✓ Stationnaire
+IBOVESPA (Brésil),-2.97226286285539,0.03756715050217069,Stationnaire,2.0240119403042116,0.01,Non-stationnaire,? Résultats contradictoires
+Nifty 50 (Inde),-3.737682205770932,0.003613280957839135,Stationnaire,0.4947370875990341,0.042852007297514844,Non-stationnaire,? Résultats contradictoires
+Hang Seng (Hong Kong),-3.4700540840901994,0.008790310666538133,Stationnaire,0.3840148675836756,0.08404531569669156,Stationnaire,✓ Stationnaire

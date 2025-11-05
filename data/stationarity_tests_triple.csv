@@ -1,0 +1,6 @@
+Marché,ADF_pval,ADF_conclusion,PP_pval,PP_conclusion,KPSS_pval,KPSS_conclusion,Votes_Stationnaire,Conclusion
+DAX (Allemagne),0.5790140566127576,Non-stationnaire,0.4543806063035866,Non-stationnaire,0.01,Non-stationnaire,0/3,✗✗✗ Non-stationnaire (unanime)
+Nikkei (Japon),0.0021102687970520153,Stationnaire,0.0008074735978217113,Stationnaire,0.1,Stationnaire,3/3,✓✓✓ Stationnaire (unanime)
+IBOVESPA (Brésil),0.03756715050217069,Stationnaire,0.06427504992033584,Non-stationnaire,0.01,Non-stationnaire,1/3,✗✗ Non-stationnaire (majoritaire)
+Nifty 50 (Inde),0.003613280957839135,Stationnaire,0.0025558384829562136,Stationnaire,0.042852007297514844,Non-stationnaire,2/3,✓✓ Stationnaire (majoritaire)
+Hang Seng (Hong Kong),0.008790310666538133,Stationnaire,0.005793606515963662,Stationnaire,0.08404531569669156,Stationnaire,3/3,✓✓✓ Stationnaire (unanime)
