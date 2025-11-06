@@ -1,0 +1,6 @@
+Marché,Stationnaire,RMSE_Niveaux,RMSE_Différences,Meilleure_approche,Amélioration_RMSE,Cohérent_théorie
+DAX (Allemagne),False,inf,inf,Niveaux,,False
+Nikkei (Japon),True,inf,inf,Niveaux,,True
+IBOVESPA (Brésil),False,inf,inf,Niveaux,,False
+Nifty 50 (Inde),True,inf,inf,Niveaux,,True
+Hang Seng (Hong Kong),True,inf,inf,Niveaux,,True
